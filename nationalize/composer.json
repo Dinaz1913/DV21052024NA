@@ -1,0 +1,16 @@
+{
+    "name": "reel222z/nationalize",
+    "description": "Allow user to enter the specified input and return the value",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "8.0.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dean Vas",
+            "email": "batman1913@inbox.lv"
+        }
+    ],
+    "minimum-stability": "dev"
+}
